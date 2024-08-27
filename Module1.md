@@ -20,7 +20,9 @@ Kyseistä pakettia ei omassa etsinnässäni löytynyt NetAcadilta aktiivisena. M
 ### Part 1: View the TEDx Video “Top Hacker Shows Us How It’s Done; Pablos
 Holman at TEDxMidwests”
 a. Katsottu osoitteessa: https://www.youtube.com/watch?v=hqKafI7Amd8
+
 b. Christopher Abad - Ei suoraan sivulla toimivan datan ohjausta Spämmifiltteriin, jotta saisi poimittua filteröidystä datasta halutun datan. 
+
 c. Ei spämmi datan käyttöä SpamAssasiniin syöttämisen kautta opetetun lopputuleman käyttäminen halutumman datan saamiseksi.
 
 ### Part 2: Answer the following questions.
