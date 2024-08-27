@@ -9,3 +9,7 @@ Kansion sisällä oli tehtävän 3.0.3 kannalta vaadittava .exe tiedosto "tcpvie
 
 ![Näyttökuva 2024-08-27 184411](https://github.com/user-attachments/assets/d3455145-2326-4cf1-ab17-e34b8fd7d8f5)
 
+![Mita tapahtuu tcpviewissa kun tiedosto aukeaa](https://github.com/user-attachments/assets/08a4b1bc-0631-4aa7-b6f7-bcd59159a55d)
+
+![Mita tapahtuu tcpviewissa kun tiedosto sulkeutuu](https://github.com/user-attachments/assets/9d4705f9-678e-4b06-9cda-bb14a163cf29)
+
